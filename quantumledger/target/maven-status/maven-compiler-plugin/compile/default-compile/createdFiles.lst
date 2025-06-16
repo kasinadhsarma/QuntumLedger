@@ -1,0 +1,9 @@
+com/quantumledger/core/Block.class
+com/quantumledger/persistence/DatabaseManager.class
+com/quantumledger/auth/model/Role.class
+com/quantumledger/Main.class
+com/quantumledger/service/LedgerService.class
+com/quantumledger/auth/model/User.class
+com/quantumledger/util/HashUtil.class
+com/quantumledger/core/Transaction.class
+com/quantumledger/core/Blockchain.class
